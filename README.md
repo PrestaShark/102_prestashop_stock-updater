@@ -1,5 +1,5 @@
 # 102 Prestashop Stock Updater
-_PHP script for update product stock, wholesale price and price_ 
+_PHP script for update product stock, wholesale price and price_  
 _2016/05/06_
 
 ### Version
