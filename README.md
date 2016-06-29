@@ -1,8 +1,11 @@
 # 102_prestashop_stock-updater
-PHP script for update product stock, wholesale price and price 
+_PHP script for update product stock, wholesale price and price_
+_2016/05/06_
 
-2016/05/06
-Jacobo Fernandez
+### Version
+**0.2**
+_2016/06/29_
+
+**Jacobo Fernandez**
 jacobofb@gmail.com
-www.cientodos.com
-------------------
+[Cientodos](https://www.cientodos.com)
